@@ -20,3 +20,7 @@ There is a youtube video series [Neural Networks From Scratch](https://www.youtu
 I have been thinking starting my day with this book is a great way to get into the needed mindset to stick with it during the day. However, right now it is raining, and it has been raining a lot today, so the distraction of 'going for a ride' is simply not there. This truly helps with staying focused on this task at hand. 
 
 OK. First 2 chapters of the book cover real basic subjects, covering basic numpy dot product and transpose of matrices.
+
+## Thursday, July 11, 2024
+
+The book references [CS231n Convoutional Neural Networks for Visual Recognition](https://cs231n.github.io/neural-networks-case-study/) which is an excellent resource to study.
